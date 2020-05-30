@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Grocery Application</string>
+    <string name="add_new_item">Add new item</string>
+    <string name="_0">0</string>
+    <string name="decrement">-</string>
+    <string name="increment">+</string>
+    <string name="add">Add</string>
+    <string name="empty_item">Empty Item</string>
 </resources>
